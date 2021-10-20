@@ -1,4 +1,4 @@
-## Team 23 - Noting Web App
+## Noting Web App - Team 23
 
 The participants are required to fork this repository and create a public GitHub repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
 
@@ -27,11 +27,12 @@ Our approach towards the solution:
 We were able to perform these functions mentioned in the last four points with the help of JavaScript.
 
 
-#### Architecture Diagram
+### Architecture Diagram
+-----------------------------------
+* Done in a separate file
 
-# done in a separate file
-
-#### Technical Description
+### Technical Description
+------------------------------------
 
 Technologies Used:
 * HTML 5
@@ -45,6 +46,7 @@ Instructions to run submitted code:
 * Run the code with any text editor(preferably atom)
 
 ### Team Members
+--------------------------------------
 * Syead Maaz Ahmed
   Email-syeadmaazahmed@gmail.com
   Worked on Java Script and CSS.
